@@ -17,7 +17,7 @@ Clone the Repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/go-url-shortener.git
+git clone https://github.com/manishkr108/go-url-shortener.git
 cd go-url-shortener
 Build the Application:
 
