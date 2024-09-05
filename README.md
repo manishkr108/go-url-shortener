@@ -15,20 +15,20 @@ A simple URL shortener built with Go. This application allows users to shorten l
 **Installation**<br>
 Clone the Repository:
 
-sh
-Copy code
-git clone https://github.com/manishkr108/go-url-shortener.git
-cd go-url-shortener
-Build the Application:
+
+**Copy code**
+git clone https://github.com/manishkr108/go-url-shortener.git <br>
+cd go-url-shortener<br>
+Build the Application:<br>
 
 sh
 Copy code
-go build -o go-url-shortener
-Run the Application:
+go build -o go-url-shortener<br>
+Run the Application:<br>
 
 sh
 Copy code
-./go-url-shortener
+./go-url-shortener<br>
 Access the Application: Open your web browser and navigate to http://localhost:3000/shortener to use the URL shortener.
 
 Usage
