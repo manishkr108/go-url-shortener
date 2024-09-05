@@ -8,11 +8,11 @@ Here’s a descriptive README for your URL shortener application:
 URL Shortener
 A simple URL shortener built with Go. This application allows users to shorten long URLs and redirects them to the original URL using a short key.
 
-Features
-Shorten URLs: Input a long URL and get a shortened version that redirects to the original URL.
-Generate Unique Keys: Automatically generates unique short keys for each URL.
-Redirect to Original URL: Redirects users to the original URL when they visit the shortened URL.
-Installation
+**Features**
+**Shorten URLs**: Input a long URL and get a shortened version that redirects to the original URL.
+**Generate Unique Keys**: Automatically generates unique short keys for each URL.
+**Redirect to Original URL**: Redirects users to the original URL when they visit the shortened URL.
+**Installation**
 Clone the Repository:
 
 sh
