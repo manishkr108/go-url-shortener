@@ -18,7 +18,7 @@ var (
 	logger *log.Logger
 )
 
-// Generates the HTML for the URL shortener form
+// Generates the HTML for the URL shortener forms
 func generateForm(originalURL, shortenedURL string) string {
 	return fmt.Sprintf(`
 	<h2>URL Shortener</h2>
