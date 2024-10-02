@@ -56,3 +56,29 @@ INFO: 2024/10/02 21:19:47 main.go:63: Shortened URL: https://learn.microsoft.com
 INFO: 2024/10/02 21:19:57 main.go:109: Received request: POST /shortener
 INFO: 2024/10/02 21:19:57 main.go:36: Received request: POST /shortener
 INFO: 2024/10/02 21:19:57 main.go:63: Shortened URL: https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-doc/35e6aa7a-5657-4882-866e-4df5e8b1a28a to http://localhost:3000/short/Nc6L4A
+INFO: 2024/10/02 21:22:45 main.go:125: Starting URL shortener...
+INFO: 2024/10/02 21:23:01 main.go:109: Received request: POST /shortener
+INFO: 2024/10/02 21:23:01 main.go:36: Received request: POST /shortener
+INFO: 2024/10/02 21:23:01 main.go:63: Shortened URL: https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-doc/35e6aa7a-5657-4882-866e-4df5e8b1a28a to http://localhost:3000/short/iCEJtu
+INFO: 2024/10/02 21:23:10 main.go:109: Received request: POST /shortener
+INFO: 2024/10/02 21:23:10 main.go:36: Received request: POST /shortener
+INFO: 2024/10/02 21:23:10 main.go:63: Shortened URL:  https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-doc/35e6aa7a-5657-4882-866e-4df5e8b1a28a to http://localhost:3000/short/33BzXS
+INFO: 2024/10/02 21:23:18 main.go:109: Received request: GET /
+INFO: 2024/10/02 21:23:22 main.go:109: Received request: GET /shortener
+INFO: 2024/10/02 21:23:22 main.go:36: Received request: GET /shortener
+INFO: 2024/10/02 21:23:22 main.go:42: Displayed form
+INFO: 2024/10/02 21:26:48 main.go:109: Received request: POST /shortener
+INFO: 2024/10/02 21:26:48 main.go:36: Received request: POST /shortener
+INFO: 2024/10/02 21:26:48 main.go:63: Shortened URL:  https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-doc/35e6aa7a-5657-4882-866e-4df5e8b1a28a to http://localhost:3000/short/eFQ7tg
+INFO: 2024/10/02 21:26:54 main.go:109: Received request: POST /shortener
+INFO: 2024/10/02 21:26:54 main.go:36: Received request: POST /shortener
+INFO: 2024/10/02 21:26:54 main.go:63: Shortened URL:  https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-doc/35e6aa7a-5657-4882-866e-4df5e8b1a28a to http://localhost:3000/short/5DRJAh
+INFO: 2024/10/02 21:27:55 main.go:109: Received request: GET /shortener
+INFO: 2024/10/02 21:27:55 main.go:36: Received request: GET /shortener
+INFO: 2024/10/02 21:27:55 main.go:42: Displayed form
+INFO: 2024/10/02 21:28:07 main.go:109: Received request: POST /shortener
+INFO: 2024/10/02 21:28:07 main.go:36: Received request: POST /shortener
+INFO: 2024/10/02 21:28:07 main.go:63: Shortened URL:  https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-doc/35e6aa7a-5657-4882-866e-4df5e8b1a28a to http://localhost:3000/short/KjduvD
+INFO: 2024/10/02 21:28:12 main.go:109: Received request: POST /shortener
+INFO: 2024/10/02 21:28:12 main.go:36: Received request: POST /shortener
+INFO: 2024/10/02 21:28:12 main.go:63: Shortened URL:  https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-doc/35e6aa7a-5657-4882-866e-4df5e8b1a28a to http://localhost:3000/short/JGnxMs
