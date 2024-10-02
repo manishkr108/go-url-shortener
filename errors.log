@@ -1,0 +1,58 @@
+INFO: 2024/09/05 22:33:10 main.go:117: Starting URL shortener...
+INFO: 2024/09/05 22:33:10 main.go:127: URL Shortener is running on :3000
+INFO: 2024/09/05 22:33:18 main.go:36: Received request: POST /shortener
+INFO: 2024/09/05 22:33:18 main.go:63: Shortened URL: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQVzXWWprWxptVnlcQmVssXvwJJ to http://localhost:3000/short/ktAq6P
+INFO: 2024/09/05 22:34:10 main.go:36: Received request: POST /shortener
+INFO: 2024/09/05 22:34:10 main.go:63: Shortened URL: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQVzXWWprWxptVnlcQmVssXvwJJ to http://localhost:3000/short/RQ0d2s
+INFO: 2024/09/05 22:38:26 main.go:117: Starting URL shortener...
+INFO: 2024/09/05 22:38:26 main.go:127: URL Shortener is running on :3000
+INFO: 2024/09/05 22:40:37 main.go:117: Starting URL shortener...
+INFO: 2024/09/05 22:40:37 main.go:127: URL Shortener is running on :3000
+INFO: 2024/09/05 22:40:46 main.go:36: Received request: GET /shortener
+INFO: 2024/09/05 22:40:46 main.go:42: Displayed form
+INFO: 2024/09/05 22:40:53 main.go:36: Received request: POST /shortener
+INFO: 2024/09/05 22:40:53 main.go:63: Shortened URL: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQVzXWWprWxptVnlcQmVssXvwJJ to http://localhost:3000/short/yWGX1q
+INFO: 2024/09/05 22:41:48 main.go:36: Received request: GET /shortener
+INFO: 2024/09/05 22:41:48 main.go:42: Displayed form
+INFO: 2024/09/05 22:43:32 main.go:125: Starting URL shortener...
+INFO: 2024/09/05 22:43:38 main.go:109: Received request: GET /shortenerss
+INFO: 2024/09/05 22:43:40 main.go:109: Received request: GET /shortenerss
+INFO: 2024/09/05 22:43:43 main.go:109: Received request: GET /shortener
+INFO: 2024/09/05 22:43:43 main.go:36: Received request: GET /shortener
+INFO: 2024/09/05 22:43:43 main.go:42: Displayed form
+INFO: 2024/09/05 22:43:51 main.go:109: Received request: POST /shortener
+INFO: 2024/09/05 22:43:51 main.go:36: Received request: POST /shortener
+INFO: 2024/09/05 22:43:51 main.go:63: Shortened URL: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQVzXWWprWxptVnlcQmVssXvwJJ to http://localhost:3000/short/3fIMmM
+INFO: 2024/09/05 22:44:03 main.go:109: Received request: GET /shortenes
+INFO: 2024/09/05 22:44:05 main.go:109: Received request: GET /shortenes
+INFO: 2024/09/05 22:44:06 main.go:109: Received request: GET /favicon.ico
+INFO: 2024/09/05 22:44:56 main.go:109: Received request: GET /shortene
+INFO: 2024/09/05 22:45:01 main.go:109: Received request: GET /shortener
+INFO: 2024/09/05 22:45:01 main.go:36: Received request: GET /shortener
+INFO: 2024/09/05 22:45:01 main.go:42: Displayed form
+INFO: 2024/09/05 22:45:08 main.go:109: Received request: POST /shortener
+INFO: 2024/09/05 22:45:08 main.go:36: Received request: POST /shortener
+INFO: 2024/09/05 22:45:08 main.go:63: Shortened URL: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQVzXWWprWxptVnlcQmVssXvwJJ to http://localhost:3000/short/BNQwNV
+INFO: 2024/10/02 21:09:48 main.go:125: Starting URL shortener...
+INFO: 2024/10/02 21:14:11 main.go:125: Starting URL shortener...
+INFO: 2024/10/02 21:16:02 main.go:125: Starting URL shortener...
+INFO: 2024/10/02 21:16:47 main.go:109: Received request: GET /short
+INFO: 2024/10/02 21:16:47 main.go:109: Received request: GET /short/
+INFO: 2024/10/02 21:16:47 main.go:77: Error: Shortened key is missing
+INFO: 2024/10/02 21:16:48 main.go:109: Received request: GET /favicon.ico
+INFO: 2024/10/02 21:17:05 main.go:109: Received request: GET /shortener
+INFO: 2024/10/02 21:17:05 main.go:36: Received request: GET /shortener
+INFO: 2024/10/02 21:17:05 main.go:42: Displayed form
+INFO: 2024/10/02 21:17:59 main.go:109: Received request: POST /shortener
+INFO: 2024/10/02 21:17:59 main.go:36: Received request: POST /shortener
+INFO: 2024/10/02 21:17:59 main.go:63: Shortened URL: https://www.mta.ca/~rrosebru/oldcourse/263114/Dsa.pdf to http://localhost:3000/short/jgfJmC
+INFO: 2024/10/02 21:18:20 main.go:109: Received request: POST /shortener
+INFO: 2024/10/02 21:18:20 main.go:36: Received request: POST /shortener
+INFO: 2024/10/02 21:18:20 main.go:63: Shortened URL: https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-doc/35e6aa7a-5657-4882-866e-4df5e8b1a28a to http://localhost:3000/short/lG6rnb
+INFO: 2024/10/02 21:19:41 main.go:125: Starting URL shortener...
+INFO: 2024/10/02 21:19:47 main.go:109: Received request: POST /shortener
+INFO: 2024/10/02 21:19:47 main.go:36: Received request: POST /shortener
+INFO: 2024/10/02 21:19:47 main.go:63: Shortened URL: https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-doc/35e6aa7a-5657-4882-866e-4df5e8b1a28a to http://localhost:3000/short/1oVIE8
+INFO: 2024/10/02 21:19:57 main.go:109: Received request: POST /shortener
+INFO: 2024/10/02 21:19:57 main.go:36: Received request: POST /shortener
+INFO: 2024/10/02 21:19:57 main.go:63: Shortened URL: https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-doc/35e6aa7a-5657-4882-866e-4df5e8b1a28a to http://localhost:3000/short/Nc6L4A

@@ -20,7 +20,7 @@ var (
 
 // Generates the HTML for the URL shortener forms
 func generateForm(originalURL, shortenedURL string) string {
-	return fmt.Sprintf(`
+	return fmt.Sprintf(`<div style="text-align:center">
 	<h2>URL Shortener</h2>
 	<p>Original URL: %s</p>
 	<p>Shortened URL: <a href="%s">%s</a></p>
@@ -28,7 +28,7 @@ func generateForm(originalURL, shortenedURL string) string {
 		<input type="text" name="url" placeholder="Enter a URL" required>
 		<input type="submit" value="Shorten">
 	</form>
-	`, originalURL, shortenedURL, shortenedURL)
+	</div>`, originalURL, shortenedURL, shortenedURL)
 }
 
 // HandleShortener handles both GET and POST requests for URL shortening
