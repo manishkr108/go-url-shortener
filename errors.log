@@ -82,3 +82,9 @@ INFO: 2024/10/02 21:28:07 main.go:63: Shortened URL:  https://learn.microsoft.co
 INFO: 2024/10/02 21:28:12 main.go:109: Received request: POST /shortener
 INFO: 2024/10/02 21:28:12 main.go:36: Received request: POST /shortener
 INFO: 2024/10/02 21:28:12 main.go:63: Shortened URL:  https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-doc/35e6aa7a-5657-4882-866e-4df5e8b1a28a to http://localhost:3000/short/JGnxMs
+INFO: 2024/10/03 12:28:42 main.go:109: Received request: POST /shortener
+INFO: 2024/10/03 12:28:42 main.go:36: Received request: POST /shortener
+INFO: 2024/10/03 12:28:42 main.go:63: Shortened URL:  https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-doc/35e6aa7a-5657-4882-866e-4df5e8b1a28a to http://localhost:3000/short/IUwZ5W
+INFO: 2024/10/03 12:34:19 main.go:109: Received request: GET /short/IUwZ5W
+INFO: 2024/10/03 12:34:19 main.go:89: Redirected IUwZ5W to  https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-doc/35e6aa7a-5657-4882-866e-4df5e8b1a28a
+INFO: 2024/10/03 18:25:44 main.go:109: Received request: GET /favicon.ico
